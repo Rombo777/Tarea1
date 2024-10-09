@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+    <head>
+        <title> Práctica 2;GabrielFV</title>
+    </head>
+    <body>
+        <h1> Encabezado 1.El mayor de todos.Por no indicarse queda aliniado a la izquierda.</h1>
+        <h2> Encabezado 2.De menor tamaño.Está centrado, como indica el atributo ALIGN.</h2>
+        <h3 align=right> Encabezado 3.Está aliniado a la derecha" </h3>
+        <h4 align=left> Encabezado 4.Aliniado a la izquierda</h4>
+        <h5 align=left "justify"> Está justificado, lo que quiere decir que sus líneas empiezan y terminan a la misma distancia de los márgenes izquierda y derecha del navegador, dándole una apariencia 
+        <h6 align=left> Es el de menor tamaño</h6>
+    </body>  
+</html>
